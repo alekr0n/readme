@@ -61,6 +61,7 @@ Status: opracowywanie aktualizacji.
     <p>Po wygenerowaniu można wygenerować kolejny nowy koktajl.</p>
     <p>Aby dodać wygenerowany koktajl do ogólnej bazy, należy kliknąć przycisk "Add to Base" na karcie z przepisem.</p>
 
+<p>Aplikacja jest dość intuicyjna, jednak dla większej łatwości użytkowania dodaliśmy małe wskazówki wewnątrz aplikacji. Pracujemy również nad tym, aby dodać ich jeszcze więcej, dla maksymalnej wygody korzystania z Find Your Cocktail!</p>
 
 ## Używanie
 Расскажите как установить и использовать ваш проект, покажите пример кода:
