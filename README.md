@@ -7,7 +7,6 @@ Status: opracowywanie aktualizacji.
 - [Technologie](#technologie)
 - [Funkcji](#funkcji)
 - [Używanie](#używanie)
-- ~~[Deploy и CI/CD](#deploy-и-ci/cd)~~
 - [Oczekiwane aktualizacje](#oczekiwane-aktualizacje)
 - [Zespół deweloperów](#zespół-deweloperów)
 - [FAQ](#faq)
@@ -67,19 +66,12 @@ Status: opracowywanie aktualizacji.
 <p>Aplikacja jest dość intuicyjna, jednak dla większej łatwości użytkowania dodaliśmy małe wskazówki wewnątrz aplikacji. Pracujemy również nad tym, aby dodać ich jeszcze więcej, dla maksymalnej wygody korzystania z Find Your Cocktail!</p>
 
 ## Używanie
-Расскажите как установить и использовать ваш проект, покажите пример кода:
 
-Установите npm-пакет с помощью команды:
-```sh
-$ npm i your-awesome-plugin-name
-```
+Naciskni na ten link [Find Your Cocktail](https://find-your-cocktail-2.onrender.com/)
 
-И добавьте в свой проект:
-```typescript
-import { hi } from "your-awesome-plugin-name";
+<p>lub</p>
 
-hi(); // Выведет в консоль "Привет!"
-```
+<p>Wpis do przeglądarki https://find-your-cocktail-2.onrender.com/ i zobać naszą aplikację Find Your Cocktail!</p>
 
 ## Oczekiwane aktualizacje
 - [x] Generator
