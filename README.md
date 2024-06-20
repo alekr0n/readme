@@ -45,6 +45,9 @@ Status: opracowywanie aktualizacji.
 
 - **Zapis historii, związanych z koktajlami, notatek, komentarzy lub poprawek w przepisie.** Użytkownik może dodać swoje historie, komentarze, notatki lub poprawki do określonego koktajlu. Ważnym warunkiem dodania zapisu jest dodanie koktajlu do ulubionych. Komentarze można zostawiać tylko do ulubionych przepisów. Przechodząc do zakładki "Favourite" użytkownik zobaczy rozszerzoną wersję kart koktajli. W dolnej części każdej karty na stronie "Favourite" znajduje się pole do zapisu historii, komentarza, notatka lub poprawki.
 
+    Na przykład:
+    > To ulubiony koktajl Anny
+
     <p>Aby zapisać wpis, należy kliknąć przycisk "Add" na karcie koktajlu.</p>
     <p>Aby usunąć wpis, należy kliknąć przycisk "Delete" na karcie koktajlu.</p>
     <p>Aby edytować wpis: popraw wpis w polu tekstowym, a następnie kliknij przycisk "Add". (Ważne jest, aby pamiętać, że można pozostawić tylko jedą notatkę, historię, komentarz lub poprawkę, jednak zawsze można uzupełnić poprzedni wpis).</p>
