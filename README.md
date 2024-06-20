@@ -5,6 +5,7 @@ Status: opracowywanie aktualizacji.
 
 ## Spis treści
 - [Technologie](#technologie)
+- [Architektura](#architektura)
 - [Funkcji](#funkcji)
 - [Używanie](#używanie)
 - [Oczekiwane aktualizacje](#oczekiwane-aktualizacje)
@@ -16,6 +17,26 @@ Status: opracowywanie aktualizacji.
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
+
+## Architektura
+
+Nasz projekt korzysta ze stosu MEVN (MongoDB, Express.js, Vue.js, Node.js).
+
+### Część serwerowa (Backend)
+- **Node.js**: Serwerowa platforma JavaScript.
+- **Express.js**: Framework dla Node.js ułatwiający tworzenie aplikacji webowych i API.
+- **Mongoose**: Biblioteka do modelowania danych dla MongoDB w Node.js.
+
+### Część kliencka (Frontend)
+- **Vue.js**: Framework JavaScript do budowy interfejsów użytkownika.
+- **Axios**: Biblioteka do wykonywania zapytań HTTP z przeglądarki.
+
+### Komunikacja
+- Frontend i backend komunikują się poprzez **REST API**, obsługując zapytania typu **GET, POST, PUT, DELETE**.
+
+### Wdrożenie
+- Projekt jest wdrożony na **Render.com**.
+- Wykorzystuje pliki **.env** do zarządzania konfiguracją.
 
 ## Funkcji
 - **Obejrzenie bazę z koktejlami.** Użytkownik może przejść na zakładkę "Base", aby zobaczyć listę przepisów wszystkich koktajli dostępnych w aplikacji.
